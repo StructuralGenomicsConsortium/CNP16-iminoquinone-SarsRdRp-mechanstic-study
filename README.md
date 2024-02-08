@@ -1,10 +1,8 @@
 # CNP16-iminoquinone-SarsRdRp-mechanstic-study
 
-An [SGC]((https://www.thesgc.org/)) Open Chemistry Networks Project (number 16) devoted to the target SARS-COV-2 RdRp. 
+An [SGC]((https://www.thesgc.org/)) Open Chemistry Networks Project (number 16) devoted to the target SARS-COV-2 RdRp, and specifically how the protein may be reacting with a series of iminiquinones that appear to inhibit the protein. Our current goal is to identify the site of cysteine modification: where is the SH group reacting on the iminoquinone, what is the structure of the adduct formed, how does the structure of the iminiquinone affect the reactivity and, perhaps, where on the protein the iminiquinone is attaching.
 
-Our current goal is to work out where is the site of Cysteine modification on the iminoquinone and how does the structure of the iminoquinone affect cysteine reactivity.
-
-If this sounds interesting, and you agree to the simple [RULES](https://www.thesgc.org/sgc-open-chemistry-networks/terms-of-use), you can get started.
+If this sounds interesting, and you agree to the simple [RULES](https://www.thesgc.org/sgc-open-chemistry-networks/terms-of-use), you can get started. The current activity is in the Issues, with progress summarised on the wiki.
 
 For answers to all the questions you have, go to the [FAQs](https://www.thesgc.org/sgc-open-chemistry-networks/faq).
 
